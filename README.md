@@ -1,7 +1,9 @@
 # Luke's Companion buttons
 Several custom Bitfocus Companion buttons
 
-For control of an ATEM Mini and H2R graphics. Original versions were for Companion v2.1.2 (which had some complications, especially the inability to change the text on "this" button rather than give an absolute button reference), with updated versions for Companion v2.2.0.
+For control of an ATEM Mini and H2R graphics. Original versions were for Companion v2.1.2 (which had some complications, especially the inability to change the text on "this" button rather than give an absolute button reference), with updated versions for Companion v2.2.0:
+* [Companion v2.2.0 buttons](https://github.com/lukestein/companion_buttons/blob/main/companion_buttons_v220.page_5.companionconfig)
+* [Companion v2.1.2 buttons](https://github.com/lukestein/companion_buttons/blob/main/companion_buttons_v212.page_5.companionconfig)
 
 ![image](https://user-images.githubusercontent.com/44452336/111806955-e0109b00-88a8-11eb-8df3-85653604fd31.png)
 
