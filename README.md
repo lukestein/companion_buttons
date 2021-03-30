@@ -21,3 +21,6 @@ I am sharing my in-progress profile for control of a basic ATEM Mini (i.e., no s
 * [ATEM Mini Basic 15 profile](https://github.com/lukestein/companion_buttons/blob/main/lukestein_atemminibasic15.companionconfig)
 
 Note this is built for Companion v2.2.0.
+
+
+https://user-images.githubusercontent.com/44452336/113053104-e985e700-9175-11eb-9217-20610c042f72.mp4
