@@ -13,3 +13,11 @@ Original versions were for Companion v2.1.2 (which had some complications, espec
 | 3      | Set the output for the ATEM Mini HDMI output (aux 1). A quick press sets to Program; holding cycles through inputs 1–4 and then preview. Note that in the v2.1.2 version, if you move the button you’ll have to edit the “Internal: Button Text” commands to refer to the correct button. Also, I found that in v2.1.2, the `$(atem:aux1_input)` macro didn’t update reliably, so I had coded things in a more complex way—this seems fixed in v2.2.0. |
 | 4      | Press to toggle the upstream keyer (M/E 1) on and off. Hold to cycle the upstream keyer fill source through inputs 1–4. |
 | 10     | Toggle Mic 1 on and off. |
+
+
+# 15-Button ATEM Mini Profile
+
+I am sharing my in-progress profile for control of a basic ATEM Mini (i.e., no streaming recording, or supersource) using a 15-key streamdeck. This is based on (including copying directly from) [David Joshua Ford's incredible profile](https://davidjoshuaford.com/production/companion/).
+* [ATEM Mini Basic 15 profile](https://github.com/lukestein/companion_buttons/blob/main/lukestein_atemminibasic15.companionconfig)
+
+Note this is built for Companion v2.2.0.
